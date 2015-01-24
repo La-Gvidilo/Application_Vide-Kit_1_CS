@@ -1,0 +1,9 @@
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\bin\Debug\WindowsFormsApplication_Kit_1.exe.config
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\bin\Debug\WindowsFormsApplication_Kit_1.exe
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\bin\Debug\WindowsFormsApplication_Kit_1.pdb
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\obj\Debug\WindowsFormsApplication_Kit_1.csprojResolveAssemblyReference.cache
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\obj\Debug\WindowsFormsApplication_Kit_1.Form1.resources
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\obj\Debug\WindowsFormsApplication_Kit_1.Properties.Resources.resources
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\obj\Debug\WindowsFormsApplication_Kit_1.csproj.GenerateResource.Cache
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\obj\Debug\WindowsFormsApplication_Kit_1.exe
+c:\users\cyril\documents\visual studio 2013\Projects\WindowsFormsApplication_Kit_1\WindowsFormsApplication_Kit_1\obj\Debug\WindowsFormsApplication_Kit_1.pdb
